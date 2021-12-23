@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
+.movie {
+  background-color: #ccc;
+  border-radius: 20px;
+  margin-bottom: 50px;
+  padding: 50px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.movie .poster {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  mbarin-bottom: 40px;
+  width: 400px;
+}
+
+.movie .title {
+  text-align: center;
+}
